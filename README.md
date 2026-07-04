@@ -1,5 +1,6 @@
-# nMOD ≽(•⩊ •マ≼
+<img width="480" height="270" alt="nmod" src="https://github.com/user-attachments/assets/0630164d-2611-44e8-9f9b-0008ee6443e1" />
 
+## nMOD ≽(•⩊ •マ≼
 A no-bullshit minecraft mod loader.
 
 Ever wanted to share Mincraft mods with your friends?
