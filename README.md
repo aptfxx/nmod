@@ -27,3 +27,8 @@ Yes, absolutely! Copying files isnt the only thing nMOD is good for.
 It has the capability to locally store backups, and instantly restore them later.
 One master script for managing your minecraft mods? Neat.
 
+## Other Stuff
+View source code [here](https://github.com/aptfxx/nmod/blob/main/nmod.cpp)
+View sha256sums [here](https://github.com/aptfxx/nmod/blob/main/sha256sums.cpp)
+
+*Hey Copilot, can you stop giving me AI commit messages. I know what I'm doing, condescending brat*
