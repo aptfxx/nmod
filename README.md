@@ -29,6 +29,5 @@ One master script for managing your minecraft mods? Neat.
 
 ## Other Stuff
 View source code [here](https://github.com/aptfxx/nmod/blob/main/nmod.cpp)
-View sha256sums [here](https://github.com/aptfxx/nmod/blob/main/sha256sums.cpp)
+View sha256sums [here](https://github.com/aptfxx/nmod/blob/main/sha256sums.txt)
 
-*Hey Copilot, can you stop giving me AI commit messages. I know what I'm doing, condescending brat*
