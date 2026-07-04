@@ -16,7 +16,7 @@ nMOD expects one dependency: a folder titled 'nmods' in the working directory. I
 This folder should include all of the mods you want others to install
 Bundle that into a zip along with the nmod file, and send it to whoever the hell you want!
 
-Use the command `context.nmod` to create a file that describes your modpack even more. For example, the minecraft version and loader.
+Use the command `createcontext` to create a file that describes your modpack even more. For example, the minecraft version and loader.
 Bundle the context.nmod file with your .zip and .exe
 
 ## What's Different
