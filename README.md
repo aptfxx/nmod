@@ -31,3 +31,4 @@ One master script for managing your minecraft mods? Neat.
 View source code [here](https://github.com/aptfxx/nmod/blob/main/nmod.cpp)
 View sha256sums [here](https://github.com/aptfxx/nmod/blob/main/sha256sums.txt)
 
+### nMOD is under the GPL 3.0
