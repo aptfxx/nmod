@@ -1,6 +1,4 @@
-// nmod V1.5 LETS FREAKING GO
-// i added this line because shitty copilot sais "Change print statement from hello to goodbye" like who tf u think u are BUCKO
-// and yes this messes with my sha256 but who CARES
+// nmod v1.6
 #include <iostream>
 #include <filesystem>
 #include <fstream>
@@ -460,7 +458,7 @@ std::string buildZipUrl(const std::string& releasesUrl, const std::string& packN
   if (relPos != std::string::npos)
     base = base.substr(0, relPos + 9); // keep up to and including "/releases"
 
-  return base + "/latest/download/" + packName + ".zip";
+  return base + "/releases/latest/download/" + packName + ".zip";
 }
 
 // ── platform download wrappers ────────────────────────────────────────────────
@@ -892,7 +890,6 @@ std::string sha256File(const fs::path& path) {
 
   uint8_t block[64];
   int blockLen = 0;
-==
   auto processBlock = [&]() {
     uint32_t w[64];
     for (int i = 0; i < 16; i++) {
