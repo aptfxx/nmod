@@ -1,5 +1,6 @@
 // nmod V1.5 LETS FREAKING GO
-
+// i added this line because shitty copilot sais "Change print statement from hello to goodbye" like who tf u think u are BUCKO
+// and yes this messes with my sha256 but who CARES
 #include <iostream>
 #include <filesystem>
 #include <fstream>
